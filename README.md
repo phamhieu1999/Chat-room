@@ -1,7 +1,7 @@
 # Realtime Chat Applicaiton
 
 
-### [Live Site](https://realtime-chat-application.netlify.com)
+<!-- ### [Live Site](https://realtime-chat-application.netlify.com) -->
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
